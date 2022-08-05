@@ -1,0 +1,149 @@
+.page {
+  margin: 10vh auto;
+  display: flex;
+  max-width: 1140px;
+  background-color: #fff;
+}
+
+/* // Start here */
+.container {
+  width: 100%;
+  height: 80vh;
+  background: #f3f4f5;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+.photo-container {
+  position: relative;
+  top: -90px;
+  left: -120px;
+  transform: rotate(10deg);
+}
+
+.photo-cont-item {
+  display: flex;
+  width: 2280px;
+}
+.photo-cont-item .photo-item {
+  width: 320px;
+  height: 200px;
+  margin-right: 60px;
+  margin-bottom: 60px;
+  border-radius: 16px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 0px 2px 40px rgba(0, 0, 0, 0.15);
+}
+
+.animation-1 {
+  -webkit-animation: scroller 40s linear infinite;
+          animation: scroller 40s linear infinite;
+  display: flex;
+  width: 4560px;
+}
+
+.animation-2 {
+  margin-left: 150px;
+  -webkit-animation: scroller 30s linear infinite;
+          animation: scroller 30s linear infinite;
+  display: flex;
+  width: 4560px;
+}
+
+.animation-3 {
+  -webkit-animation: scroller 50s linear infinite;
+          animation: scroller 50s linear infinite;
+  display: flex;
+  width: 4560px;
+}
+
+@-webkit-keyframes scroller {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-2280px);
+  }
+}
+
+@keyframes scroller {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-2280px);
+  }
+}
+.photo-1 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513400/Nature/image_18_lwam5y.jpg);
+}
+
+.photo-2 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513347/Nature/image_16_oqcpeb.jpg);
+}
+
+.photo-3 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513347/Nature/image_15_opmlwd.jpg);
+}
+
+.photo-4 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513346/Nature/image_14_nie14a.jpg);
+}
+
+.photo-5 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513346/Nature/image_13_kojf0w.jpg);
+}
+
+.photo-6 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513346/Nature/image_17_hngpby.jpg);
+}
+
+.photo-7 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513346/Nature/image_11_wcunjf.jpg);
+}
+
+.photo-8 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513346/Nature/image_9_stnpjs.jpg);
+}
+
+.photo-9 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_12_m3evi3.jpg);
+}
+
+.photo-10 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_10_euaoai.jpg);
+}
+
+.photo-11 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_7_apdkz1.jpg);
+}
+
+.photo-12 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_8_khwrpi.jpg);
+}
+
+.photo-13 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_5_vhwqqg.jpg);
+}
+
+.photo-14 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_2_nrbfpf.jpg);
+}
+
+.photo-15 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_4_qxw6i4.jpg);
+}
+
+.photo-16 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_3_ucohbw.jpg);
+}
+
+.photo-17 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_1_yitfy3.jpg);
+}
+
+.photo-18 {
+  background-image: url(https://res.cloudinary.com/dzq1l03yt/image/upload/v1593513345/Nature/image_6_xcylqe.jpg);
+}/*# sourceMappingURL=styles.css.map */
