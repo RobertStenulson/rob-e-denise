@@ -81,67 +81,83 @@
 }
 
 .photo-1 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20211128_170843_capture.jpg)
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20211128_170843_capture.jpg) */
+  background-image: url(/img/20211128_170843_capture.jpg)
 }
 
 .photo-2 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220313_163320.jpg);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220313_163320.jpg); */
+  background-image: url(/img/20220313_163320.jpg);
 }
 
 .photo-3 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220313_172446.jpg);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220313_172446.jpg); */
+  background-image: url(/img/20220313_172446.jpg);
 }
 
 .photo-4 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220731_144922_1.jpg);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220731_144922_1.jpg); */
+  background-image: url(/img/20220731_144922_1.jpg);
 }
 
 .photo-5 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220802_205741_exported_1565_1659817192417.jpg);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/20220802_205741_exported_1565_1659817192417.jpg); */
+  background-image: url(/img/20220802_205741_exported_1565_1659817192417.jpg);
 }
 
 .photo-6 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/IMG-20211227-WA0003.jpg);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/IMG-20211227-WA0003.jpg); */
+  background-image: url(/img/IMG-20211227-WA0003.jpg);
 }
 
 .photo-7 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/IMG-20211231-WA0003.jpg);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/IMG-20211231-WA0003.jpg); */
+  background-image: url(/img/IMG-20211231-WA0003.jpg);
 }
 
 .photo-8 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/IMG-20220313-WA0045.jpg);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/IMG-20220313-WA0045.jpg); */
+  background-image: url(/img/IMG-20220313-WA0045.jpg);
 }
 
 .photo-9 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ1.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ1.png); */
+  background-image: url(/img/LQ1.png);
 }
 
 .photo-10 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ2.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ2.png); */
+  background-image: url(/img/LQ2.png);
 }
 
 .photo-11 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ3.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ3.png); */
+  background-image: url(/img/LQ3.png);
 }
 
 .photo-12 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ4.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ4.png); */
+  background-image: url(/img/LQ4.png);
 }
 
 .photo-13 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ5.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ5.png); */
+  background-image: url(/img/LQ5.png);
 }
 
 .photo-14 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ6.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ6.png); */
+  background-image: url(/img/LQ6.png);
 }
 
 .photo-15 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ7.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ7.png); */
+  background-image: url(/img/LQ7.png);
 }
 
 .photo-16 {
-  background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ8.png);
+  /* background-image: url(https://dqenqqm9y.mo.cloudinary.net/img/LQ8.png); */
+  background-image: url(/img/LQ8.png);
 }
 
 .photo-17 {
