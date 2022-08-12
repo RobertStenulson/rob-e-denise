@@ -39,6 +39,15 @@
   box-shadow: 0px 2px 40px rgba(0, 0, 0, 0.15);
 }
 
+.animation-1:hover,
+.animation-2:hover,
+.animation-3:hover,
+.animation-1:active,
+.animation-2:active,
+.animation-3:active {
+  animation-play-state: paused;
+}
+
 .animation-1 {
   -webkit-animation: scroller 40s linear infinite;
   animation: scroller 40s linear infinite;
