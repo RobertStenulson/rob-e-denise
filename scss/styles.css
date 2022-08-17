@@ -41,10 +41,12 @@
 
 .animation-1:hover,
 .animation-2:hover,
-.animation-3:hover,
-.animation-1:active,
+.animation-3:hover
+
+/* .animation-1:active,
 .animation-2:active,
-.animation-3:active {
+.animation-3:active*/
+  {
   animation-play-state: paused;
 }
 
